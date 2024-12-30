@@ -1,0 +1,10 @@
+-qU pypdf
+langchain_community
+-qU langchain-text-splitters
+-qU langchain-huggingface
+sentence-transformers
+langchain-chroma
+gradio
+sentence-transformers
+groq
+langchain_groq
