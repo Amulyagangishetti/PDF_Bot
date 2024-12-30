@@ -14,6 +14,7 @@ The **PDF Bot App** allows users to upload a PDF file, which is then processed a
 ## Technologies Used
 -**UI:**
   - Gradio
+  - 
 -**PDF Processing:**
   - LangChain
 
